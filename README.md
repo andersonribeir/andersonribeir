@@ -1,13 +1,13 @@
 # Oi, eu sou o Anderson! 👨‍💻
 
-Sou um engenheiro de software com sólida experiência em desenvolvimento backend e arquitetura de sistemas distribuídos. Com histórico comprovado em .NET, Java e microservices, atuo na criação de soluções performáticas, escaláveis e bem estruturadas. Domino ferramentas modernas como Docker, Kubernetes e AWS, e valorizo a construção de ambientes colaborativos e entregas de alto impacto.
+Sou um engenheiro de software com sólida experiência em desenvolvimento backend e arquitetura de sistemas distribuídos. Com histórico comprovado em .NET, Java e Javascript, atuo na criação de soluções performáticas, escaláveis e bem estruturadas. Domino ferramentas modernas como Docker, Kubernetes e AWS, e valorizo a construção de ambientes colaborativos e entregas de alto impacto.
 
 ---
 
 ## 🚀 Principais Competências
 
 - **.NET (Framework, Core, 6, 7, 8)** e **Java** para desenvolvimento backend robusto.
-- **Arquitetura de Microservices**, migração de sistemas monolíticos e aplicação de padrões de design.
+- **Arquitetura de Microserviços**, migração de sistemas monolíticos e aplicação de padrões de design.
 - **Banco de Dados**: SQL Server, PostgreSQL, com foco em performance e modelagem eficiente.
 - **Contêineres com Docker** e orquestração com **Kubernetes**.
 - **Cloud Computing** com AWS e Azure.
