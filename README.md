@@ -10,7 +10,7 @@ Sou um engenheiro de software com sólida experiência em desenvolvimento backen
 - **Arquitetura de Microservices**, migração de sistemas monolíticos e aplicação de padrões de design.
 - **Banco de Dados**: SQL Server, PostgreSQL, com foco em performance e modelagem eficiente.
 - **Contêineres com Docker** e orquestração com **Kubernetes**.
-- **Cloud Computing** com AWS e uso do **API Gateway**.
+- **Cloud Computing** com AWS e Azure.
 - **Frontend** com Angular e noções de React e Flutter.
 - **Boas práticas**: Git, revisão de código, testes automatizados, clean code, code review e CI/CD.
 
